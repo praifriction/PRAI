@@ -1,0 +1,1 @@
+PRAI is a four-dimensional heuristic for analyzing social systems through Power, Resources, Affect, and Institutions, designed to reduce oversimplified conclusions while preserving uncertainty and ethical boundaries.
