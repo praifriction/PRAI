@@ -2,6 +2,12 @@
 
 PRAI is a four-dimensional heuristic for analyzing social systems through Power, Resources, Affect, and Institutions, designed to reduce oversimplified conclusions while preserving uncertainty and ethical boundaries.
 
+## Access
+
+The recommended entry point is the Google Drive / PDF package, which contains the readable version, prompt files, safety boundaries, changelog, and ZIP archive.
+
+This [GitHub repository](https://github.com/praifriction/PRAI) serves as a public version archive for prompt source files, changelog transparency, and long-term tracking.
+
 ## Versions
 
 - **PRAI Light** — quick scan for low-friction first-pass analysis.
